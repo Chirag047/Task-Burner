@@ -25,17 +25,17 @@ https://task-burner.vercel.app/
 Clone the repository:
 
 ```bash
-  git clone https://github.com/Chirag047/Airbnb-Clone.git
+  git clone https://github.com/Chirag047/Task-Burner.git
 ```
 Go to the project directory:
 
 ```bash
-  cd Airbnb-Clone
+  cd Task-Burner
 ```
 Install the dependencies for the project:
 
 ```bash
-  npm install --legacy-peer-deps
+  cd frontend/npm install --legacy-peer-deps
 ```
 Create build folder:
 
@@ -45,7 +45,7 @@ Create build folder:
 Start the frontend development server:
 
 ```bash
-  cd public/npm run start
+  npm run start
 ```
 Access the application at :
 
