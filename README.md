@@ -1,6 +1,6 @@
 # Task-Burner
-
-<br>
+Task Burner is a task scheduling and organizing Web App that can help you scheduling your tasks and checklists quickly. It can also intergrate with your microsoft Teams account so that your tasks and meetings and all the scheule will be donw automatically in just one click. Its Guest mode let any age group of person to schedule their life.. So burn your tasks using tasking Burner ;)
+<br> <br>
 It is responsive on any screen devices so you can play it any device you wish :)
 <hr>
 
